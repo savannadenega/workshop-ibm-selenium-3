@@ -4,6 +4,7 @@ Projeto (modelo 3) com a ferramenta Selenium para desenvolvimento de um workshop
 
 Projeto realizado por: Savanna Denega.
 
+- Este projeto utiliza os padrões Singleton e Page Object.
 - Este projeto não utiliza a ferramenta para build Maven, então já adicionamos todas as dependêcias necessárias. Não utilizamos neste projeto a ferramenta para build Maven para facilitar a configuração dos computadores dos colegas no momento da realização do workshop (por problemas, por exemplo, de configuração de PROXY/VPN ou não possuir o Maven já configurado no computador).
 
 Os testes automatizados são realizados no site [http://www.practiceselenium.com/](http://www.practiceselenium.com/), que já é um site destinado para testes com a ferramenta Selenium.
